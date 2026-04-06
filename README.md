@@ -29,7 +29,9 @@ CCNA-Notes/
 |-----|-------|-------|-----|
 | Day 01 | Network Devices | ✅ | ✅ |
 | Day 02 | Interfaces & Cables | ✅ | ✅ |
-| Day 03 | OSI Model & TCP/IP Suite | ⏳ | ⏳ |
+| Day 03 | OSI Model & TCP/IP Model| ⏳ | ⏳ |
+| Day 04| Intro to the CLI| ⏳ | ⏳ |
+
 
 *(✅ done · ⏳ in progress · ❌ not started)*
 
