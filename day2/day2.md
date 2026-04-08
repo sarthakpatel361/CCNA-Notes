@@ -104,3 +104,7 @@ Wrong cable = no connectivity. In real jobs you need to know which cable to run 
 ---
 
 ## 🖥️ Useful CLI Commands
+show interfaces                    → Detailed status of all interfaces
+show ip interface brief            → Quick summary (IP, status, protocol)
+show interfaces GigabitEthernet0/0 → Specific interface details
+show controllers serial 0/0        → Check if DCE/DTE on serial links
