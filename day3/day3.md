@@ -157,3 +157,4 @@ A: OSI gives a universal language for troubleshooting and understanding network 
 - **TCP = phone call** (establish connection first, then talk)
 - **UDP = sending a letter** (just send it, no confirmation)
 - **Router = Layer 3**, **Switch = Layer 2**, **Hub = Layer 1**
+## 9. What is packet
