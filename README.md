@@ -29,8 +29,9 @@ CCNA-Notes/
 |-----|-------|-------|-----|
 | Day 01 | Network Devices | ✅ | ✅ |
 | Day 02 | Interfaces & Cables | ✅ | ✅ |
-| Day 03 | OSI Model & TCP/IP Model| ⏳ | ⏳ |
-| Day 04| Intro to the CLI| ⏳ | ⏳ |
+| Day 03 | OSI Model & TCP/IP Model| ✅ | ✅ |
+| Day 04| Intro to the CLI| ✅ | ✅ |
+| Day 05+06| Intro To Switching| ✅ | ✅ |
 
 
 *(✅ done · ⏳ in progress · ❌ not started)*
