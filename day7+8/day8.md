@@ -285,7 +285,17 @@ Q10. Why does each router interface need different subnet?
 A. Because each interface connects to a different network.
 
 
- 
+ Q11. Question:
+
+192.168.50.10/26
+
+Tell me:
+
+Network
+Broadcast
+First usable
+Last usable
+
  
 
 
