@@ -32,7 +32,7 @@ CCNA-Notes/
 | Day 03 | OSI Model & TCP/IP Model| ✅ | ✅ |
 | Day 04| Intro to the CLI| ✅ | ✅ |
 | Day 05+06| Intro To Switching| ✅ | ✅ |
-
+| Day 06+07| Ipv4 Addressing| ✅ | ✅ |
 
 *(✅ done · ⏳ in progress · ❌ not started)*
 
