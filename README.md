@@ -34,7 +34,7 @@ CCNA-Notes/
 | Day 05+06| Intro To Switching| ✅ | ✅ |
 | Day 07+08| Ipv4 Addressing| ✅ | ✅ |
 | Day 09| Switch Interfaces| ✅ | ✅ |
-| Day 08| Switch Interfaces| ✅ | ✅ |
+| Day 10| IPV4 Header| ✅ | ✅ |
 | Day 09+10| Routing Fundamental| ✅ | ✅ |
 
 
