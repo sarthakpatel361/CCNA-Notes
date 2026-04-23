@@ -33,7 +33,7 @@ CCNA-Notes/
 | Day 04| Intro to the CLI| ✅ | ✅ |
 | Day 05+06| Intro To Switching| ✅ | ✅ |
 | Day 07+08| Ipv4 Addressing| ✅ | ✅ |
-| Day 06+07| Ipv4 Addressing| ✅ | ✅ |
+| Day 09| Switch Interfaces| ✅ | ✅ |
 | Day 08| Switch Interfaces| ✅ | ✅ |
 | Day 09+10| Routing Fundamental| ✅ | ✅ |
 
