@@ -1,4 +1,4 @@
-# CCNA-Notes
+# CCNA Detailed Notes
 
 # 📡 CCNA Notes — Jeremy's IT Lab
 
