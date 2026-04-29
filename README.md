@@ -4,7 +4,7 @@
 
 Personal study notes for the **Cisco CCNA 200-301** certification, following the [Jeremy's IT Lab course on Udemy](https://www.udemy.com/course/free-ccna-200-301/).
 
-Each day has my own written notes and the Packet Tracer lab file for that lesson.
+Each day has my own written notes and the Packet Tracer lab file for that lesson.And if you want to get maximum output use both notes and labs
 
 ---
 
