@@ -76,5 +76,5 @@ These are personal study notes — not official Cisco or Jeremy's IT Lab materia
 
 ---
 
-*Updated regularly as I work through the course.*
+
 
