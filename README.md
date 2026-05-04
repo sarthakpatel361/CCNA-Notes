@@ -1,14 +1,14 @@
-# CCNA-Notes
+# CCNA Detailed Notes
 
-# 📡 CCNA Notes — Jeremy's IT Lab
+#  CCNA Notes — Jeremy's IT Lab
 
-Personal study notes for the **Cisco CCNA 200-301** certification, following the [Jeremy's IT Lab course on Udemy](https://www.udemy.com/course/free-ccna-200-301/).
+Personal study notes for the **Cisco CCNA 200-301** certification.
 
-Each day has my own written notes and the Packet Tracer lab file for that lesson.
+Each day has my own written notes and the Packet Tracer lab file for that lesson.And if you want to get maximum output use both notes and labs
 
 ---
 
-## 📁 Structure
+##  Structure
 
 ```
 CCNA-Notes/
@@ -35,8 +35,10 @@ CCNA-Notes/
 | Day 07+08| Ipv4 Addressing| ✅ | ✅ |
 | Day 09| Switch Interfaces| ✅ | ✅ |
 | Day 10| IPV4 Header| ✅ | ✅ |
-| Day 11| Routing Fundamental(Static Routing| ✅ | ✅ |
-
+| Day 11+12| Routing Fundamental(Static Routing)| ✅ | ✅ |
+| Day 13|About to start| ✅ | ❌
+| Day 14|About to start|❌  | 
+| Day 15|About to start|❌  | 
 
 *(✅ done · ⏳ in progress · ❌ not started)*
 
@@ -75,5 +77,5 @@ These are personal study notes — not official Cisco or Jeremy's IT Lab materia
 
 ---
 
-*Updated regularly as I work through the course.*
+
 
