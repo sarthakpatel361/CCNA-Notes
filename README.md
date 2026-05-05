@@ -35,8 +35,8 @@ CCNA-Notes/
 | Day 07+08| Ipv4 Addressing| ✅ | ✅ |
 | Day 09| Switch Interfaces| ✅ | ✅ |
 | Day 10| IPV4 Header| ✅ | ✅ |
-| Day 11+12| Routing Fundamental(Static Routing)| ✅ | ✅ |
-| Day 13|About to start| ✅ | ❌
+| Day 11+12| Routing Fundamental(Static Routing)| ❌ | ❌ |
+| Day 13|About to start| ❌ | ❌
 | Day 14|About to start|❌  | 
 | Day 15|About to start|❌  | 
 
