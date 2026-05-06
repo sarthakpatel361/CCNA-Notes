@@ -65,8 +65,7 @@ CCNA-Notes/
 
 ## ⚠️ Disclaimer
 
-These are personal study notes — not official Cisco or Jeremy's IT Lab material. Some things may be simplified or incomplete. Always refer to the original course for accurate content.
-
+These are personal study notes — not official Cisco or Jeremy's IT Lab material. Some things may be simplified or incomplete.  
 ---
 
 ## 🔗 Resources
