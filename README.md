@@ -1,4 +1,4 @@
-# CCNA Detailed Study Notes
+# CCNA Detailed Personal Study Notes
 
 #  CCNA Notes — Jeremy's IT Lab
 
