@@ -4,11 +4,11 @@
 
 Personal study notes for the **Cisco CCNA 200-301** certification.
 
-Each day has my own written notes and the Packet Tracer lab file for that lesson.And if you want to get maximum output use both notes and labs for best understanding and  clarity.
+Each day has my own written notes and the Packet Tracer lab file for that lesson.And if you want to get maximum output use both notes and labs for best understanding and  clarity .
 
 ---
 
-##  Notes Structure  for CCNA
+##  Notes Structure  for CCNA (
 
 ```
 CCNA-Notes/
@@ -63,7 +63,7 @@ CCNA-Notes/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 These are personal study notes — not official Cisco or Jeremy's IT Lab material. Some things may be simplified or incomplete.  
 ---
