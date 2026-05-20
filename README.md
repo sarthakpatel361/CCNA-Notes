@@ -1,6 +1,6 @@
 # CCNA  Personal Study Notes
 
-#  CCNA  Notes — Jeremy's IT Lab
+#  CCNA  Notes 
 
 Personal study notes for the **Cisco CCNA 200-301** certification.
 
