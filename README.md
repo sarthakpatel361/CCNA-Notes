@@ -8,7 +8,7 @@ Each day has my own written notes and the Packet Tracer lab file for that lesson
 
 ---
 
-##  Notes Structure  for CCNA (
+##  Notes Structure  for CCNA ()
 
 ```
 CCNA-Notes/
