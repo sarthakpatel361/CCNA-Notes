@@ -1,4 +1,4 @@
-# CCNA  Personal Study Notes
+# CCNA  Study Notes(Personal)
 
 #  CCNA  Study Notes 
 
