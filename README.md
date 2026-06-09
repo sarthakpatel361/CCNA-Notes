@@ -1,6 +1,6 @@
 # CCNA  Study Notes(Personal)
 
-#  CCNA  Study Notes ..
+#  CCNA  Study Notes ...
 
 Personal study notes for the *Cisco CCNA 200-301** certification.
 
