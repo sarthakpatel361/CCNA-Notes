@@ -2,7 +2,7 @@
 
 #  CCNA  Study Notes ...
 
-Personal study notes for the *Cisco CCNA 200-301** certification.
+Personal study notes for the *Cisco CCNA 200-301** certification...
 
 Each day has my own written notes and the Packet Tracer lab file for that lesson.And if you want to get maximum output use both notes and labs for best understanding and  clarity .I will update this on daily basis.
 
