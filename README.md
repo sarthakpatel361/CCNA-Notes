@@ -45,7 +45,7 @@ CCNA-Notes/
 
 ---
 
-## 📚 Course Info
+## 📚 Course Info..
 
 | Detail | Info |
 |--------|------|
