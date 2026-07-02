@@ -76,6 +76,6 @@ These are personal study notes — not official Cisco or Jeremy's IT Lab materia
 - [Packet Tracer Download](https://www.netacad.com/courses/packet-tracer)
 
 ---
-CCNA revision
+CCNA revision .
 
 
