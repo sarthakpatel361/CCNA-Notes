@@ -54,7 +54,7 @@ CCNA-Notes/
 | Exam | Cisco CCNA 200-301 |
 | Instructor | Jeremy McDowell 
 
----
+---..
 
 ## 🗒️ How to Use
 
