@@ -41,7 +41,7 @@ CCNA-Notes/
 | Day 14|About to start|✅  | ✅
 | Day 15|About to start|❌  | 
 
-*(✅ done · ⏳ in progress · ❌ not started)*
+*(✅ done · ⏳ in progress · ❌ not started)*.
 
 ---.
 
