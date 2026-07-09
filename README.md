@@ -56,7 +56,7 @@ CCNA-Notes/
 
 ---..
 
-## 🗒️ How to Use
+## 🗒️ How to Use it optimaly
 
 1. Browse the day folders above
 2. Open `notes.md` for written notes on that day
