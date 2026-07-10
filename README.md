@@ -47,7 +47,7 @@ CCNA-Notes/
 
 ## 📚 Course Info...
 
-| Detail | Info |
+| Detailed | Info |
 |--------|------|
 | Course | Jeremy's IT Lab — Complete CCNA 200-301 |
 | Platform | Udemy (Free) |
