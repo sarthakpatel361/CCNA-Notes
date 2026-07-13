@@ -60,7 +60,7 @@ CCNA-Notes/
 
 1. Browse the day folders above
 2. Open `notes.md` for written notes on that day
-3. Open `.pkt` files in [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) for the lab
+3. Open `.pkt` files in [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) for the lab.
 
 ---
 
