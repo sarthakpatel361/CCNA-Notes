@@ -24,7 +24,7 @@ CCNA-Notes/
 
 ---
 
-## 📅 Progress
+## 📅 Progress.
 
 | Day | Topic | Notes | Lab |
 |-----|-------|-------|-----|
