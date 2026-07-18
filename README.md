@@ -69,7 +69,7 @@ CCNA-Notes/
 These are personal study notes — not official Cisco or Jeremy's IT Lab material. Some things may be simplified or incomplete.  
 ---
 
-## 🔗 Resources
+## 🔗 Resources##
 
 - [Jeremy's IT Lab YouTube](https://www.youtube.com/@JeremysITLab)
 - [Cisco CCNA Exam Topics](https://learningnetwork.cisco.com/s/ccna-exam-topics)
