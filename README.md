@@ -20,7 +20,7 @@ CCNA-Notes/
 │   ├── notes.md
 │   └── lab.pkt
 └── ...
-```
+```.
 
 ---
 
