@@ -77,5 +77,5 @@ These are personal study notes — not official Cisco or Jeremy's IT Lab materia
 
 ---
 CCNA revision ...
-
+end of file
 
