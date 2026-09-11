@@ -52,7 +52,7 @@ CCNA-Notes/
 | Course | Jeremy's IT Lab — Complete CCNA 200-301 |
 | Platform | Udemy (Free) |
 | Exam | Cisco CCNA 200-301 |
-| Instructor | Jeremy McDowell 
+| Instructor | Jeremy McDowell .
 
 ---..
 
