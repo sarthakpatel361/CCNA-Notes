@@ -7,7 +7,7 @@ Networking devices are hardware components that connect and direct traffic acros
 ---
 
 ## ⚙️ Devices at a Glance
-
+.
 | Device | OSI Layer | Key Role |
 | --- | --- | --- |
 | Hub | Layer 1 | Broadcasts to all ports |
